@@ -17,6 +17,7 @@ Our Work : As part of our work on the Crop Rotation and Recommendation website, 
 5)Contact : The Contact page on the Crop Rotation and Recommendation website serves as a means for users to connect with the website administrators and seek assistance, provide feedback, or ask questions related to crop rotation, flower crops, or any other relevant inquiries.
 
 Technologies Used :
+
 Frontend -
 HTML CSS
 
