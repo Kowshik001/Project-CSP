@@ -1,5 +1,4 @@
-# Project-CSP
-✨ # Crop Rotation and Recommendation System for flowers Website ✨
+#✨  Crop Rotation and Recommendation System for flowers Website ✨
 
 
 Purpose- The Crop Rotation and Recommendation System for flowers website aims to assist farmers and agricultural professionals in implementing effective crop rotation practices. It provides valuable information about crop rotation techniques, benefits, and recommendations tailored to specific regions and environmental conditions.
