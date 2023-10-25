@@ -5,6 +5,8 @@
 Purpose- The Crop Rotation and Recommendation System for flowers website aims to assist farmers and agricultural professionals in implementing effective crop rotation practices. It provides valuable information about crop rotation techniques, benefits, and recommendations tailored to specific regions and environmental conditions.
 
 Features-
+
+
 1)Crop Rotation Information: The website offers comprehensive information about the importance of crop rotation in sustainable farming, including its benefits such as improved soil fertility, pest and disease control, and weed suppression.
 
 2)Crop Rotation Techniques :Crop rotation techniques can be beneficial for flowers as well, promoting soil health, pest management, and overall plant vigor. Crop rotation techniques can be applied to flower fields just like they can be applied to other agricultural crops. three common crop rotation techniques for flower fields: -Two-field rotation -Three-field rotation -Four-field rotation.
